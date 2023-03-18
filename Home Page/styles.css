@@ -58,10 +58,11 @@ nav .hamb {
   right: 3%;
   top: 55px;
   z-index: 5;
- display: none;
+  display: none;
 
   background: #FFA500;
   cursor: pointer;
+  
 }
 
 nav .hamb span {
